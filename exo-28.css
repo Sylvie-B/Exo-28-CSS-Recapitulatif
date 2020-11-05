@@ -1,0 +1,27 @@
+.prems{
+    color: blue;
+    font-family: "Courier";
+    text-align: center;
+    font-size: 50px;
+}
+
+.deux{
+    font-family: Courier;
+}
+
+.trois{
+    text-align: center;
+}
+
+.quatre{
+    font-size: 50px;
+}
+
+#cinq{
+    background: yellow;
+}
+
+.sept{
+    border: solid 1px blue;
+    min-height: 200px;
+}
